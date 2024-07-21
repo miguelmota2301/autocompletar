@@ -1,6 +1,6 @@
 # Auto-completar
 
-## 12/07/2024**
+## 12/07/2024:
 
 Minha primeira impressão é que a funcionalidade auto-completar não é extremamente complexa, mas não tenho experiência com GraphQl. Então preciso estudar bastante para conseguir implementar essa conexão.
 
@@ -8,7 +8,7 @@ Pela pesquisa inicial, a técnica utilizada mais comum para implementar essa con
 
 Já resolvi o problema do meu computador ser Windows utilizando o WSL, emulando o Ubuntu. Preciso ver uma forma de emular o MacOS.
 
-## 15/07/2024**
+## 15/07/2024:
 
 Código base do autocompletar está feito, mas a lista de sugestões utilizada foi uma bem básica, criada por mim. Então, preciso decidir uma forma de utilizar listas de sugestões mais complexas.
 
@@ -20,11 +20,11 @@ Backend e frontend conectados com sucesso. Entretanto, está sendo feita uma con
 
 Consegui fazer o site de acordo com os requisitos: Frontend -> GraphQl -> Backend. Aparentemente, o site não demonstra erros. Amanhã, farei uma teste mais pesado para conferir.
 
-## 18/08/2024:
+## 18/07/2024:
 
 Testei o aplicativo em outro computador (Linux) e funcionou. Agora só focar nos ajustes finais.
 
-## 18/072024:
+## 19/072024:
 
 Como a estrutura já está pronta, vou estudar Docker para poder deixar em contâiners e facilitar a execução do código.
 
